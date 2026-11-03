@@ -12,6 +12,11 @@ export function Navbar() {
             CV
           </a>
         </li>
+        <li>
+          <a href="/blog" className="hover:text-gray-400">
+            Blog
+          </a>
+        </li>
         <li className="ml-auto">
           <a href="/Login">Login</a>
         </li>
